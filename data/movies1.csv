@@ -1,0 +1,461 @@
+﻿userId,movieId,title,rating
+1,1,Polowanie na Czerwony PaĹşdziernik,10
+1,2,Rick & Morty,10
+1,3,The Big Bang Theory,8
+1,4,Braveheart,10
+1,5,The Expanse,7
+1,6,Miasteczko South Park,9
+1,7,Kraina Lodu,5
+1,8,Dziennik Bridget Jones,6
+1,9,Kapitan Ameryka: Wojna bohaterĂłw,3
+1,10,Avengers: Czas Ultrona,2
+1,11,Terminator 2,9
+1,12,Planeta Singli,7
+1,13,Listy do M.,7
+1,14,List do M. 2,2
+1,15,Forrest Gump,10
+1,16,Ex Machina,10
+1,17,Gran Torino,9
+1,18,Cicha Noc,1
+1,19,Battleship: Bitwa o ZiemiÄ™,1
+1,20,Narodziny Gwiazdy,2
+1,21,Kapitan Phillips,9
+1,22,Grand Budapest Hotel,9
+1,23,Wyjazd integracyjny,1
+1,24,John Wick,7
+1,25,Narcos,10
+1,26,Terminal,8
+1,27,Ona,8
+1,28,Whiplash,10
+1,29,DiabeĹ‚ ubiera siÄ™ u Prady,9
+1,30,La Casa De Papel,8
+2,2,Rick & Morty,10
+2,31,Fight Club,10
+2,27,Ona,7
+2,28,Whiplash,9
+2,24,John Wick,7
+2,32,Platforma,6
+2,33,Rekiny Wojny,5
+2,34,Siedem,9
+2,35,Pianista,8
+2,36,Leon Zawodowiec,7
+2,37,Green Book,8
+2,38,The Social Network,5
+2,39,Elvis,4
+2,40,Diuna,7
+2,41,Matrix Zmartwychwstania,3
+2,42,Tenet,4
+2,43,007 No Time To Die,6
+2,44,SkyFall,9
+2,45,Na noĹĽe,8
+2,46,PasaĹĽerowie,5
+2,47,Incepcja,7
+2,48,Fury,8
+2,49,TMNT,2
+2,50,Peaky Blinders,10
+2,51,Mindhunter,7
+2,52,MĹ‚ody PapieĹĽ,6
+2,53,Nowy papieĹĽ,8
+2,54,Ptaki Nocy,7
+2,30,La Casa De Papel,7
+2,55,WiedĹşmin,4
+3,56,Ojciec Chrzestny,10
+3,6,Miasteczko South Park,9
+3,57,Na wspĂłlnej,3
+3,58,The room,5
+3,59,ChĹ‚opaki z barakĂłw,6
+3,2,Rick & Morty,7
+3,60,Fur TV,6
+3,9,Kapitan Ameryka: Wojna bohaterĂłw,4
+3,10,Avengers: Czas Ultrona,5
+3,61,DzieĹ„ Ĺ›wira,8
+3,13,Listy do M.,1
+3,62,Milczenie Owiec,4
+3,15,Forrest Gump,6
+3,63,Everest,6
+3,64,KsiÄ™gowy,5
+3,33,Rekiny Wojny,6
+3,65,Equlibrium,8
+3,66,W sieci pajÄ…ka,5
+3,67,NiezĹ‚omny,7
+3,68,PiÄ™Ä‡dziesiÄ…t twarzy black'a,3
+3,69,Dope,2
+3,70,Gra tajemnic,7
+3,71,Parszywa dwunastka,7
+3,72,RytuaĹ‚,7
+3,73,Inni,7
+3,74,Projekt Adam,4
+3,41,Matrix Zmartwychwstania,4
+3,75,Zjazd rodzinny u Madei,1
+3,76,Dom w gĹ‚Ä™bi lasu,3
+3,77,Suma Wszystkich strachĂłw,6
+4,78,StraĹĽnicy Galaktyki,8
+4,79,StraĹĽnicy Galaktyki 2,9
+4,80,Thor : Ragnarok,8
+4,81,Fate Apocrypha,10
+4,35,Pianista,1
+4,82,Mirai Nikki,10
+4,83,One Piece,2
+4,84,Shiki,1
+4,85,Sami Swoi,7
+4,86,Jak rozpetalem II wojne swiatowa,8
+4,11,Terminator 2,8
+4,87,Zielona Mila,9
+4,13,Listy do M.,2
+4,88,Kac Vegas 2,8
+4,15,Forrest Gump,9
+4,89,Pasja,9
+4,90,Egzorcyzmy Emily Rose,9
+4,91,Edge of Tommorow,9
+4,92,Pacific Rim,9
+4,93,Gwiezdne Wojny VII,1
+4,94,Pacific Rim 2,3
+4,95,Beelzebub,9
+4,96,Tucker i Dale kontra zĹ‚o,10
+4,97,John Wick 2,8
+4,98,Venom,7
+4,99,StraĹĽ Nocna,3
+4,100,Thor,3
+4,54,Ptaki Nocy,1
+4,101,Bleach,3
+4,55,WiedĹşmin,2
+5,102,CONTRATIEMPO,10
+5,103,Praktykant,10
+5,104,Harry Potter,10
+5,105,Nietykalni,10
+5,15,Forrest Gump,10
+5,106,Gladiator,9
+5,87,Zielona Mila,10
+5,107,Gra o tron,10
+5,34,Siedem,6
+5,108,Zmierzch,10
+5,109,Wyspa tajemnic,8
+5,13,Listy do M.,7
+5,110,BÄ™karty wojny,9
+5,111,Ciekawy przypadek Benjamina Buttona,7
+5,112,Parasite,7
+5,17,Gran Torino,9
+5,20,Narodziny Gwiazdy,3
+5,22,Grand Budapest Hotel,9
+5,113,Django,9
+5,114,Zapach kobiety,10
+5,115,Interstellar,8
+5,116,Czarny Ĺ‚abÄ™dĹş,4
+5,62,Milczenie owiec,8
+5,117,ZĹap mnie jeĹ›li potrafisz,8
+5,26,Terminal,9
+5,30,La Casa De Papel,5
+5,118,Deadpool,8
+5,55,WiedĹşmin,7
+5,119,Jestem bogiem,7
+5,120,Kevin sam w domu,4
+6,121,Blade Runner,10
+6,122,Hydrozagadka,8
+6,7,Kraina Lodu,4
+6,104,Harry Potter,6
+6,107,Game of Thrones,2
+6,123,Kapitan Bomba,7
+6,17,Gran Torino,8
+6,124,Siedmiu SamurajĂłw,10
+6,125,Siedmiu wspaniaĹ‚ych,8
+6,126,Ghost in the Shell,10
+6,127,Ghost in the Shell: Innocence,8
+6,128,Lighthouse,7
+6,47,Incepcja,6
+6,129,Psychoza,8
+6,130,Ĺ»Ä…dĹ‚o,7
+6,131,Akira,10
+6,132,MĂłj sÄ…siad Totoro,4
+6,133,Vinci,7
+6,118,Deadpool,2
+6,134,Sleepy Hollow,7
+6,135,Cobra Kai,6
+6,136,Star Wars VII,1
+6,137,Star Wars VIII,1
+6,138,Star Wars IX,1
+6,139,Avatar,1
+6,105,Nietykalni,6
+6,140,Matrix,8
+6,40,Diuna,8
+6,141,The Good the Bad and the Ugly,8
+6,142,Pulp Fiction,2
+7,2,Rick & Morty,8
+7,104,Harry Potter,10
+7,143,Star Wars,7
+7,123,Kapitan Bomba,2
+7,140,Matrix,9
+7,144,WĹ‚adca PierĹ›cieni,7
+7,24,John Wick,10
+7,145,Irlandczyk,8
+7,146,Wall-E,4
+7,7,Kraina Lodu,2
+7,107,Gra o Tron,4
+7,147,Terminator,6
+7,148,Rambo,5
+7,149,Predator,7
+7,89,Pasja,10
+7,115,Interstellar,10
+7,150,Fantastyczne zwierzÄ™ta i jak je znaleĹşÄ‡,8
+7,118,Deadpool,8
+7,151,Spiderman,8
+7,152,Niesamowity Spider-Man,5
+7,31,Fight Club,9
+7,74,Projekt Adam,3
+7,153,Constantine,6
+7,139,Avatar,7
+7,154,Lucy,5
+7,155,School Nurse Files,1
+7,156,Community,7
+7,157,How I Met Your Mother,7
+7,158,PiÄ™Ä‡dziesiÄ…t twarzy Greya,1
+7,159,Nie patrz w gĂłrÄ™,4
+8,160,MiÄ™dzy piekĹ‚em a niebem,10
+8,61,DzieĹ„ Ĺ›wira,10
+8,161,K-PAX,10
+8,140,Matrix,9
+8,162,Jumanji,9
+8,163,Trainspotting,9
+8,142,Pulp Fiction,9
+8,164,PrzekrÄ™t,8
+8,165,Asterix i Obelix: Misja Kleopatra,8
+8,166,Parasite,8
+8,167,Jestem na tak,7
+8,168,Lobster,8
+8,169,Snajper,6
+8,170,Marsjanin,5
+8,171,The Square,3
+8,150,Fantastyczne zwierzÄ™ta i jak je znaleĹşÄ‡,5
+8,172,Split,5
+8,173,Wojna Ĺ›wiatĂłw,4
+8,110,BÄ™karty wojny,5
+8,174,Jestem legendÄ…,5
+8,175,Osobliwy dom Pani Peregrine,4
+8,176,Pitbull. Nowe porzÄ…dki,6
+8,177,Zenek,2
+8,178,Terror na drodze,3
+8,179,Salt,4
+8,180,Agenci,4
+8,181,Transporter: Nowa moc,2
+8,118,Deadpool,4
+8,182,Alibi.com,6
+8,183,ZabĂłjczy rejs,4
+9,25,Narcos,10
+9,2,Rick & Morty,10
+9,107,Game of Thrones,9
+9,184,Stranger Things,6
+9,140,Matrix,8
+9,144,WĹ‚adca PierĹ›cieni,8
+9,30,La Casa De Papel,8
+9,185,The Witcher,6
+9,186,Breaking Bad,7
+9,166,Parasite,6
+9,187,The OA,1
+9,104,Harry Potter,10
+9,188,The 100,2
+9,189,House of Dragon,7
+9,190,The Accountant,3
+10,113,Django,10
+10,2,Rick & Morty,10
+10,138,Star Wars IX,3
+10,185,The Witcher,8
+10,191,Avengers Endgame,5
+10,192,Castlevania,10
+10,193,Silent Hill,3
+10,194,Pirates of the Caribbean,6
+10,195,Shrek,8
+10,196,Bladerunner,8
+10,197,Edgerunners,10
+10,198,Mission Impossible Fallout,7
+10,108,Zmierzch,4
+10,199,Joker,10
+10,200,Tranfsormers I,10
+10,201,Spiderman Homecoming,4
+10,202,Prometheus,6
+10,107,Game of Thrones,7
+10,203,Family Business,7
+10,204,Alien vs Predator,1
+10,205,Hateful 8,9
+10,118,Deadpool,5
+10,139,Avatar,7
+10,206,Space Force,8
+10,207,The Office,10
+10,98,Venom,3
+10,24,John Wick,10
+11,123,Kapitan Bomba,10
+11,143,Star Wars,8
+11,15,Forrest Gump,10
+11,208,Dwunastu Gniewnych Ludzi,10
+11,144,WĹ‚adca PierĹ›cieni,8
+11,142,Pulp Fiction,10
+11,209,I Am Legend,6
+11,140,Matrix,8
+11,195,Shrek,10
+11,120,Kevin sam w domu,5
+11,210,300,2
+11,115,Interstellar,8
+11,211,Maska,2
+11,199,Joker,7
+11,212,Igrzyska Ĺšmierci,5
+11,213,Wszystko za ĹĽycie,6
+11,22,Grand Budapest Hotel,9
+11,214,Zjawa,9
+11,107,Gra o tron,5
+11,147,Terminator,8
+11,215,To nie jest kraj dla starych ludzi,5
+11,216,PrzeĹ‚Ä…cz ocalonych,8
+11,217,Skarb narodĂłw,4
+11,40,Diuna,7
+11,218,Nienawistna Ăłsemka,9
+11,219,Drive,8
+11,220,Mechaniczna pomaraĹ„cza,9
+12,124,Siedmiu SamurajĂłw,10
+12,221,PopiĂłĹ‚ i Diament,10
+12,222,Prawo i PiÄ™Ĺ›Ä‡,10
+12,31,Fight Club,9
+12,186,Breaking Bad,8
+12,44,SkyFall,5
+12,223,The Cure,9
+12,224,Drive my Car,8
+12,225,The Piano,6
+12,226,The Conversation,10
+12,227,Hardware,7
+12,228,Polytechnic,9
+12,229,New Beginning,8
+12,62,Milczenie Owiec,8
+12,230,Czerwony Smok,7
+12,231,Arizona Dream,6
+12,232,Zbrodnie po sÄ…siedzku,2
+12,233,Orange is the new black,1
+12,234,Sny wÄ™drownych ptakĂłw,9
+12,235,No time to die,6
+12,236,WĹ›ciekĹ‚e psy,10
+12,237,Czas apokalipsy,10
+12,238,Seksmisja,7
+13,2,Rick & Morty,10
+13,239,WĹ‚adaca PierĹ›cieni: PowrĂłt KrĂłla,10
+13,123,Kapitan Bomba,10
+13,87,Zielona Mila,10
+13,240,Pan Ĺ»ycia i Ĺšmierci,8
+13,241,Big Lebowski,7
+13,242,Zmerzch,1
+13,243,Zombie SS,2
+13,244,ObecnoĹ›Ä‡,6
+13,110,BÄ™karty wojny,8
+13,245,Never Ending Story,7
+13,189,House of Dragon,7
+13,246,Naruto,8
+13,247,Boruto,1
+13,248,Bohemian Rhapsody,8
+13,15,Forrest Gump,7
+13,114,Zapach kobiety,8
+13,40,Diuna,9
+13,249,Dyktator,2
+13,31,Fight club,9
+13,250,ToĹĽsamoĹ›Ä‡ Bourna,6
+13,251,Now You See Me,7
+13,58,The Room,4
+13,252,The Disaster Artist,7
+13,186,Breaking Bad,9
+13,119,Jestem Bogiem,8
+13,154,Lucy,8
+14,139,Avatar,8
+14,6,Miasteczko South Park,9
+14,2,Rick & Morty,9
+14,106,Gladiator,10
+14,187,The OA,10
+14,8,Dziennik Bridget Jones,3
+14,253,Kontakt,8
+14,254,Plan 9 z kosmosu,5
+14,255,Czerwona Nota,6
+14,256,Full Metal Alchemist : Brotherhood,10
+14,257,Boku no hero academia,8
+14,258,Sword Art Online,9
+14,259,Elysium,7
+14,260,Jak wytresowaÄ‡ smoka,10
+14,170,Marsjanin,6
+14,202,Prometheus,4
+14,261,Hobgoblins,2
+14,262,Howard the duck,1
+14,263,Inchon,3
+14,264,Mac and Me,4
+14,265,Bio-Dome,5
+14,266,Mumia,7
+14,267,Jestem bogiem (nie polski),9
+14,268,The Boys,8
+15,269,Jojo Rabbit,10
+15,270,Dunkierka,10
+15,110,BÄ™karty Wojny,9
+15,140,Matrix,10
+15,115,Interstellar,10
+15,47,Incepcja,10
+15,139,Avatar,6
+15,271,Ostatni WĹ‚adca Wiatru,1
+15,272,5 centymetrĂłw na sekundÄ™,8
+15,273,O dziewczynie skaczÄ…cej przez czas,8
+15,274,Kimi no na wa,8
+15,275,Blade Runner 2049,8
+15,276,Godziny Szczytu,10
+15,277,Zgadnij kim jestem?,10
+15,278,Kung Fu Panda,10
+15,147,Terminator,10
+15,279,Komando,10
+15,118,Deadpool,10
+15,7,Kraina Lodu,8
+15,280,To,7
+15,281,Player One,5
+15,165,Asterix i Obelix: Misja Kleopatra,10
+15,282,RRRrrrr,10
+15,283,Kobieta Kot,2
+15,284,Jak zostaĹ‚em gangsterem,6
+15,2,Rick & Morty,7
+15,138,Star Wars IX,1
+15,285,Ĺotr 1,8
+15,286,Transformers,2
+15,104,Harry Potter,10
+16,45,Na noĹĽe,8
+16,166,Parasite,8
+16,40,Diuna,7
+16,287,Sound of Metal,7
+16,32,Platforma,8
+16,288,Wyspa psĂłw,9
+16,289,Przemytnik,9
+16,248,Bohemian Rhapsody,8
+16,290,Zimna wojna,8
+16,291,Lady Bird,7
+16,292,Trzy billboardy za Ebbing Missouri,9
+16,280,To,7
+16,126,Ghost in the Shell,7
+16,16,Ex Machina,8
+16,293,Snowden,9
+16,118,Deadpool,7
+16,294,Wywiad ze sĹ‚oĹ„cem narodu,8
+16,295,Ted 2,8
+16,296,Ted,8
+16,297,Skazani na Shawshank,9
+16,298,Grawitacja,8
+16,299,28 dni pĂłĹşniej,7
+16,300,28 tygodni pĂłĹşniej,8
+16,61,DzieĹ„ Ĺ›wira,9
+16,301,ĹšmierÄ‡ nadejdzie jutro,8
+16,302,Casino Royale,7
+16,303,Ĺšwiat to za maĹ‚o,8
+16,304,Jutro nie umiera nigdy,8
+16,305,GoldenEye,9
+16,44,Skyfall,9
+17,306,Casino,9
+17,307,Heat,10
+17,111,Ciekawy przypadek Benjamina Buttona,8
+17,308,Ugotowany,8
+17,309,Wyspa tajemnic,9.5
+17,310,Donnie Brasco,8
+17,311,Limitless(Jestem Bogiem),7
+17,312,American Psycho,6.5
+17,313,Trylogia: Batmana,8.5
+17,314,Pan i pani Smith,6
+17,34,Siedem,10
+17,315,As Good As It Gets,6.5
+17,316,Inflitracja,7.5
+17,317,ChoÄ‡ goni nas czas,8
+17,318,Ojciec Chrzesny I,8
+17,319,Friday,7
+17,320,Super ZioĹ‚o,6
