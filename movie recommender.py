@@ -16,7 +16,7 @@ movies_df = pd.read_csv('data/movies1.csv',
 df = movies_df
 
 combine_movie_rating = df.dropna(axis=0, subset=['title'])
-#Eliminating empty fields in the file
+#Eliminating empty fields in the csv file
 movie_ratingCount = (combine_movie_rating.
 groupby(by=['title'])['rating'].
 count().
@@ -24,19 +24,19 @@ reset_index().
 rename(columns={'rating': 'totalRatingCount'})
 [['title', 'totalRatingCount']]
 )
-
+#Transforming data matrix,renaming columns
 rating_with_totalRatingCount = combine_movie_rating.merge(movie_ratingCount, left_on='title', right_on='title',
                                                           how='left')
 
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
-print(movie_ratingCount['totalRatingCount'].describe())
+
 
 popularity_threshold = 0
-rating_popular_movie = rating_with_totalRatingCount.query('totalRatingCount >= @popularity_threshold')
+rating_popular_movie = rating_with_totalRatingCount
 
 ## First lets create a Pivot matrix
 movie_features_df = rating_popular_movie.pivot_table(index='title', columns='userId', values='rating').fillna(0)
-
+# First lets create a Pivot matrix
 movie_features_df_matrix = csr_matrix(movie_features_df.values)
 model_knn = NearestNeighbors(metric='cosine', algorithm='brute')
 model_knn.fit(movie_features_df_matrix)
