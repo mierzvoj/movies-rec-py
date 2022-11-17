@@ -23,5 +23,5 @@ for i in range(0, len(distances.flatten())):
     if i == 0:
         print('Recommendations for user {0}:\n'.format(movie_features_df.columns[0]))
     else:
-        print('{0}: {1}, with distance of {2}:'.format(i, movie_features_df.index[indices.flatten()[i]],
-                                                       distances.flatten()[i]))
+        print('{0}: {1}'.format(i, movie_features_df.index[indices.flatten()[i]]))
+                                                     
