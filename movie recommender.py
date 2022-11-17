@@ -4,17 +4,19 @@ import numpy as np
 from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 
+# Łukasz Cettler s20168
+# Wojciech Mierzejewski s21617
+# Movies Recommendation System
+
 movies_df = pd.read_csv('data/movies1.csv',
                         usecols=['userId', 'movieId', 'title', 'rating'],
                         dtype={'userId': 'int32', 'movieId': 'int32', 'title': 'str', 'rating': 'float32'}, encoding='UTF-8')
 
-# rating_df = pd.read_csv('data/ratings.csv',
-#                         usecols=['userId', 'movieId', 'rating'],
-#                         dtype={'userId': 'int32', 'movieId': 'int32', 'rating': 'float32'})
 
 df = movies_df
 
 combine_movie_rating = df.dropna(axis=0, subset=['title'])
+#Eliminating empty fields in the file
 movie_ratingCount = (combine_movie_rating.
 groupby(by=['title'])['rating'].
 count().
