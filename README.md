@@ -17,6 +17,8 @@ Problem - we are not able to assess which video a given user should watch, based
 This is a simple movie suggestion engine processes the data.csv file and then informs the user what 5 movies he should watch.
 Each movie is rated by the users and the engine suggests the user to watch the movies that they may like.
 
+![alt text](https://github.com/mierzvoj/movies-rec-py/blob/main/Console_example.png)
+
 ## Features
    - Used NearestNeighbors implements unsupervised nearest neighbors learning.
    - scikit-learn library
